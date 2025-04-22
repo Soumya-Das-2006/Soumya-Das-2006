@@ -94,7 +94,7 @@ CMS-based responsive university website
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/soumyadas_topper)  
 
 📧 **Email**: soumyadastopper2006@gmail.com  
-📱 **Phone**: *Available on request / via LinkedIn*
+📱 **Phone**: 8159824282
 
 ---
 

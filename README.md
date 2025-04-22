@@ -10,32 +10,39 @@
 
 ## 🔥 About Me
 - 🎓 IMCA @ Parul University (1st Year, CGPA: **8.54**)
-- 💻 Full Stack Developer (PHP, JS, MySQL, React)
+- 💻 Full Stack Developer (PHP, JS, React, MySQL, Node.js)
 - 🔍 Seeking **internship** roles to apply my tech skills in the real world
 - 💡 Curious and creative — always building and learning
-- 🌱 Currently exploring: AI integration, REST APIs, and secure app design
+- 🌱 Currently exploring: Django, MongoDB, AI integration, REST APIs, secure app design
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+### 🚀 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-### 🛠️ Tools & Technologies
+### 🧠 Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -77,8 +84,11 @@ CMS-based responsive university website
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/soumya-das-b2613128a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/soumya-das-b2613128a)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_USERNAME_HERE)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME_HERE)  
+
 📧 **Email**: soumyadastopper2006@gmail.com  
 📱 **Phone**: 8159824382  
 
@@ -93,18 +103,3 @@ CMS-based responsive university website
 - 🏆 Always looking for the next big project or hackathon to join
 
 ---
-
-<!--
-**Soumya-Das-2006/Soumya-Das-2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on real-world full-stack projects including a Digital Wallet System and Organic Marketplace.
-- 🌱 I’m currently learning advanced JavaScript, REST APIs, and secure web application development.
-- 👯 I’m looking to collaborate on innovative tech projects, open source contributions, and hackathons.
-- 🤔 I’m looking for help with exploring AI integration in web platforms.
-- 💬 Ask me about full-stack development, project building, or transitioning from student to tech pro.
-- 📫 How to reach me: LinkedIn or Email me anytime!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started coding just out of curiosity and fell in love with building things that make a real impact.
--->

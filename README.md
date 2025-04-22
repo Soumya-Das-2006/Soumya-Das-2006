@@ -48,34 +48,35 @@
 
 ## 🚀 Featured Projects
 
-### 💸 Digital Wallet System
+### [💸 Digital Wallet System](https://github.com/Soumya-Das-2006/Digital-Wallet)
 Secure online wallet with OTP login, balance management, QR payments  
 **Tech:** PHP, MySQL, HTML/CSS, JS
 
-### 🌱 Organic Marketplace
+### [🌱 Organic Marketplace](https://github.com/Soumya-Das-2006/Organic-Marketplace)
 E-commerce site for organic food shopping  
 **Tech:** PHP, JS, Tailwind, PayPal API, SQL
 
-### 🏫 University Website
+### [🏫 University Website](https://github.com/Soumya-Das-2006/University-Website)
 CMS-based responsive university website  
 **Tech:** HTML, CSS, JS, PHP
 
-### 🔧 Many More Coming Soon...
+### 🔧 Many More Coming Soon *<i>Follow for More</i>*  
+[Follow Me on GitHub](https://github.com/Soumya-Das-2006)
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumya-Das-2006&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumya-Das-2006&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Das-2006&layout=compact&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Soumya-Das-2006&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Das-2006&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🧠 Certifications
+
 - ✅ Web Development – Great Learning
 - ✅ Python Essentials – Cisco & Cognitive Class
 - ✅ Full Stack Dev – Udemy
@@ -87,11 +88,11 @@ CMS-based responsive university website
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/soumya-das-b2613128a)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/YOUR_USERNAME_HERE)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR_USERNAME_HERE)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/soumya.das.377219)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/soumyadas_topper)  
 
 📧 **Email**: soumyadastopper2006@gmail.com  
-📱 **Phone**: 8159824382  
+📱 **Phone**: *Available on request / via LinkedIn*
 
 ---
 

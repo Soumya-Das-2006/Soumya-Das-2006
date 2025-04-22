@@ -48,15 +48,15 @@
 
 ## 🚀 Featured Projects
 
-### [💸 Digital Wallet System](https://github.com/Soumya-Das-2006/Digital-Wallet)
+### [💸 Digital Wallet System](https://github.com/Soumya-Das-2006/)
 Secure online wallet with OTP login, balance management, QR payments  
 **Tech:** PHP, MySQL, HTML/CSS, JS
 
-### [🌱 Organic Marketplace](https://github.com/Soumya-Das-2006/Organic-Marketplace)
+### [🌱 Organic Marketplace](https://github.com/Soumya-Das-2006/)
 E-commerce site for organic food shopping  
 **Tech:** PHP, JS, Tailwind, PayPal API, SQL
 
-### [🏫 University Website](https://github.com/Soumya-Das-2006/University-Website)
+### [🏫 University Website](https://github.com/Soumya-Das-2006/)
 CMS-based responsive university website  
 **Tech:** HTML, CSS, JS, PHP
 

@@ -3,7 +3,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Soumya-Das-2006&label=Profile%20views&color=blue&style=flat" alt="Soumya-Das-2006" />
-  <img src="https://img.shields.io/github/followers/Soumya-Das-2006?style=social" />
+  <img src="https://img.shields.io/github/followers/Soumya-Das-2006?style=social" alt="Follow Me" />
+<img src="https://img.shields.io/github/followers/Soumya-Das-2006?style=social" />
 </p>
 
 ---
@@ -61,6 +62,7 @@ CMS-based responsive university website
 **Tech:** HTML, CSS, JS, PHP
 
 ### 🔧 Many More Coming Soon...
+
 ---
 
 ## 📈 GitHub Stats

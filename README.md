@@ -65,7 +65,7 @@ CMS-based responsive university website
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Status
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumya-Das-2006&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Das-2006&layout=compact&theme=tokyonight" />

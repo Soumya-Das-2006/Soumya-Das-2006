@@ -73,7 +73,8 @@ CMS-based responsive university website
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soumya-Das-2006&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Das-2006&layout=compact&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Soumya-Das-2006&theme=tokyonight" />
+
+  <!-- <img src="https://streak-stats.demolab.com?user=Soumya-Das-2006&theme=tokyonight" /> -->
 </p>
 
 ---

@@ -34,6 +34,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL--SQL-1A1A1A?style=flat&logo=oracle&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -46,7 +49,8 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
 ---
 
 ## 🚀 Featured Projects
@@ -59,7 +63,7 @@ Secure online wallet with OTP login, balance management, QR payments
 E-commerce site for organic food shopping  
 **Tech:** PHP, JS, Tailwind, PayPal API, SQL
 
-### [🏫 University Website](https://github.com/Soumya-Das-2006/)
+### [🏫 University Website]([https://github.com/Soumya-Das-2006/University](https://soumya-das-2006.github.io/University-Website-UI/))
 CMS-based responsive university website  
 **Tech:** HTML, CSS, JS, PHP
 

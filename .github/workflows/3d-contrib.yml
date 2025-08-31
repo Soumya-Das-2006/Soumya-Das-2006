@@ -1,0 +1,44 @@
+name: Update 3D Contributions
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  generate-3d-contrib:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Generate GitHub Contributions 3D
+      run: |
+        pip install requests
+        python -c "
+        import requests
+        import os
+        os.makedirs('output/profile-3d-contrib', exist_ok=True)
+        response = requests.get('https://github-contributions-api.deno.dev/Soumya-Das-2006.svg?format=3d')
+        with open('output/profile-3d-contrib/profile-3d-contrib.svg', 'wb') as f:
+            f.write(response.content)
+        "
+    
+    - name: Commit and Push
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add output/profile-3d-contrib/
+        git commit -m 'Update 3D contributions graph' || echo "No changes to commit"
+        git push

@@ -90,65 +90,18 @@
 ---
 ## 🚀 Featured Projects
 
-### 🤖 AI & Chatbot Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **AI Voice Chatbot** | A voice-enabled chatbot that uses Web Speech API for speech recognition and synthesis. Users can interact with the bot using voice commands and receive audio responses. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Web Speech API](https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/AI-Chatbot-Voice-Search) ⭐1 |
-| **Telegram Chat Bot** | An interactive Telegram chatbot that provides automated responses, message handling, and can be integrated with various APIs for extended functionality. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/Telegram-Bot-Massenger-Chat-API) ⭐1 |
+<div align="center">
 
-### 🌐 Web Development Projects
+| Project                                                                                     | Description                                        | Tech Stack                  | Status      |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------- | :-------------------------- | :---------- |
+| **[AI Voice Chatbot](https://github.com/Soumya-Das-2006/AI-Chatbot-Voice-Search)**          | Voice-enabled AI assistant with speech recognition | JavaScript • Web Speech API | 🟢 Active   |
+| **[University Website](https://soumya-das-2006.github.io/University-Website-UI/)**          | Responsive modern university portal                | HTML • CSS • JavaScript • PHP| 🟠 Live     |
+| **[Telegram Chat Bot](https://github.com/Soumya-Das-2006/Telegram-Bot-Massenger-Chat-API)** | Interactive chat automation                        | Python • Telegram API       | 🟢 Active   |
+| **[Tic Tac Toe](https://github.com/Soumya-Das-2006/Tic-Tac-Toe-Game)**                      | Classic interactive web game                       | JavaScript                  | 🟢 Complete |
+| **[Ludo Game](https://github.com/Soumya-Das-2006/Ludo-Game)**                               | Multiplayer desktop game                           | Java                        | 🟢 Complete |
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **University Website** | A responsive university website featuring modern UI/UX design, campus information, news sections, events calendar, and resource pages with smooth animations. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://soumya-das-2006.github.io/University-Website-UI/) [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/University-Website-UI) |
-| **Organic Marketplace** | An e-commerce platform dedicated to organic products featuring product listings, shopping cart functionality, user authentication, and responsive design. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/Foody--Your-Organic-MarketPlace) |
-| **Personal Portfolio** | A modern, responsive portfolio website showcasing projects, skills, and contact information with smooth animations and clean design. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/Portfolio-Soumya-Das) ⭐1 |
-
-### 🎮 Game Development
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Tic-Tac-Toe Game** | A classic 2-player Tic-Tac-Toe game with intuitive UI, win detection, score tracking, and responsive design for all devices. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/Tic-Tac-Toe-Game) ⭐2 |
-| **Snake Game** | The classic Snake game featuring smooth controls, score system, increasing difficulty levels, and modern visual design. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/Snake-Game) ⭐1 |
-| **Ludo Game** | A digital implementation of the classic Ludo board game with multiplayer support, dice rolling, and piece movement mechanics. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=java&logoColor=white) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/Ludo-Game) ⭐1 |
-
-### ⚙️ Utility Tools
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **WiFi QR Generator** | A web tool that generates QR codes for WiFi networks, making it easy to share WiFi credentials securely with guests. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/WI-FI-QR-Genarate) ⭐1 |
-| **Password Validator** | A JavaScript-based password strength checker that validates password complexity and provides real-time feedback to users. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/PassWord-Validation) |
-| **QR Code Generator** | A Python application that generates QR codes for URLs, text, contact information, and other data with customizable options. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![QR Code](https://img.shields.io/badge/QR_Code-000000?style=flat-square&logo=qrcode&logoColor=white) | [![View Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006/QR-Code-Generator) ⭐1 |
-
----
-
-## 📊 Project Statistics
-
-```mermaid
-graph LR
-    A[Project Categories] --> B[Web Development]
-    A --> C[AI & Chatbots]
-    A --> D[Games]
-    A --> E[Utilities]
-    
-    B --> B1[4 Projects]
-    C --> C1[2 Projects]
-    D --> D1[3 Projects]
-    E --> E1[3 Projects]
-```
-
-## 🛠️ Technology Overview
-
-```mermaid
-pie title Technology Distribution
-    "HTML" :8
-    "CSS" : 8
-    "JavaScript" :8
-    "Python" : 2
-    "Java" : 1
-    "Web APIs" : 2
-```
+</div>
 
 ---
 

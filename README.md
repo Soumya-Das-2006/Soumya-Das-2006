@@ -112,24 +112,36 @@
 ---
 
 ## 📊 GitHub Analytics & Timeline  
+<!-- Stats -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Soumya-Das-2006&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Das-2006&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="170" />
+<img src="https://streak-stats.demolab.com?user=Soumya-Das-2006&theme=radical&hide_border=true&background=00000000&fire=FF6C37&currStreakLabel=FF6C37" height="170" />
+
+</div>
+
 
 <div align="center">
 
-<!-- Stats -->
-![Soumya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-Das-2006&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-Das-2006&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Soumya-Das-2006&theme=radical&hide_border=true&background=00000000&fire=FF6C37&currStreakLabel=FF6C37)  
+<table>
+<tr>
+<td align="center" width="50%">
 
----
 <!-- 3D Contributions -->
-### 🌀 3D Contribution Graph
-![3D Contributions](https://raw.githubusercontent.com/Soumya-Das-2006/Soumya-Das-2006/main/output/profile-3d-contrib/profile-3d-contrib.svg)
+### 🌀 3D Contribution Graph  
+<img src="https://raw.githubusercontent.com/Soumya-Das-2006/Soumya-Das-2006/main/output/profile-3d-contrib/profile-3d-contrib.svg" width="100%"/>
 
----
+</td>
+<td align="center" width="50%">
 
 <!-- Activity Graph -->
-### 📈 Activity Timeline
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-Das-2006&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=6B46C1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 📈 Activity Timeline  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soumya-Das-2006&theme=react-dark&bg_color=00000000&hide_border=true&area=true&area_color=6B46C1" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 

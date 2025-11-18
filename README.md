@@ -179,7 +179,7 @@ Leveling up my skills, one certificate at a time! 🚀
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumya-Das-2006)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/soumya.das.377219)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soumyadas_topper)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://soumya-das-2006.github.io/Soumya-Das-Portfolio/)<br>
 
 ### 💼 Professional Profiles
 - **LinkedIn**: [Soumya Das](https://www.linkedin.com/in/soumya-das-b2613128a)

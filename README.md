@@ -27,7 +27,7 @@
 ---
 ## 🔥 About Me  
 
-- 🎓 **Education**: IMCA @ Parul University (1st Year, CGPA: **8.54**)  
+- 🎓 **Education**: IMCA @ Parul University (2nd Year, CGPA: **8.54**)  
 - 💻 **Tech Stack**: Full Stack Developer — PHP, JS, React, MySQL, Node.js  
 - 🔍 **Career Goal**: Seeking **internship roles** to apply my skills in real-world projects  
 - 💡 **Mindset**: Curious + Creative → Always building & learning  

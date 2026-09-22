@@ -13,12 +13,12 @@
         "height": 90
       },
       "config": {
-        "hideBorder": true,
-        "hideDecorations": false,
+        "hideBorder": false,
+        "hideDecorations": true,
         "animationType": "fade-in",
         "animationPreviewKey": 1
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1789834131148_0"
@@ -11519,9 +11519,11 @@
             "#000000",
             "#000000"
           ]
-        ]
+        ],
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 2,
       "instanceId": "widget_1789834131148_1"
@@ -11557,9 +11559,11 @@
         "customEmail": "soumyadastopper2006@gmail.com",
         "customStatus": "Edge AI Developer & IoT-ML Engineer",
         "customHighlights": "ICPAT 2025 Speaker, 4x Hackathon Team Lead, CGPA 8.54/10",
-        "customCompany": "Tinkering Hub, Parul University"
+        "customCompany": "Tinkering Hub, Parul University",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1789834131148_2"
@@ -11576,9 +11580,11 @@
         "height": 160
       },
       "config": {
-        "langsCount": 6
+        "langsCount": 6,
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1789834131148_3"
@@ -11626,9 +11632,9 @@
         "perLine": 9,
         "hideBorder": false,
         "showTitle": true,
-        "hideDecorations": false
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1789834131148_5"
@@ -11645,8 +11651,11 @@
         "width": 800,
         "height": 230
       },
-      "config": {},
-      "locked": false,
+      "config": {
+        "hideBorder": false,
+        "hideDecorations": true
+      },
+      "locked": true,
       "visible": true,
       "zIndex": 6
     },
@@ -11662,8 +11671,11 @@
         "width": 800,
         "height": 168
       },
-      "config": {},
-      "locked": false,
+      "config": {
+        "hideBorder": false,
+        "hideDecorations": true
+      },
+      "locked": true,
       "visible": true,
       "zIndex": 8
     },
@@ -11679,8 +11691,11 @@
         "width": 400,
         "height": 210
       },
-      "config": {},
-      "locked": false,
+      "config": {
+        "hideBorder": false,
+        "hideDecorations": true
+      },
+      "locked": true,
       "visible": true,
       "zIndex": 9
     },
@@ -11700,9 +11715,10 @@
         "countPrivate": false,
         "includeAllCommits": false,
         "statType": "stats",
-        "hideBorder": false
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 10
     },
@@ -11740,9 +11756,11 @@
         },
         "badgeStyle": "flat-square",
         "lockAspectRatio": false,
-        "customTitle": "Connect With Me"
+        "customTitle": "Connect With Me",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 11
     },
@@ -11769,9 +11787,11 @@
           "SyllabusEngine",
           "Complaint-Management-System",
           "Foody--Your-Organic-MarketPlace"
-        ]
+        ],
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 12
     },
@@ -11802,9 +11822,11 @@
           "██████▀   ▀████▀   ▀████▀  ██    ██    ██    ██    ██      ██████▀  ██    ██ ██████▀ "
         ],
         "detail": "medium",
-        "cols": 45
+        "cols": 45,
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 13
     },
@@ -11822,9 +11844,11 @@
       },
       "config": {
         "customBio": "🚀 Problem Solver | 📚 IMCA Student @ Parul University | 🌟 Lifelong Learner\n\n🎓 Education: Integrated MCA @Parul University (3rd Year, CGPA: 8.54)\n💻 Tech Stack: Full Stack Developer — PHP, JS, React, MySQL, Node.js\n🔍 Career Goal: Seeking internship roles to apply my skills in real-world projects\n💡 Mindset: Curious + Creative → Always building & learning\n🌱 Currently Exploring: Django | MongoDB | AI Integration | REST APIs | Secure App Design",
-        "customTitle": "About Me "
+        "customTitle": "About Me ",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 14
     },
@@ -11895,9 +11919,11 @@
           "ruby"
         ],
         "animationType": "fade-in",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 16
     },
@@ -11922,9 +11948,10 @@
         "borderColor": "#30363d",
         "showKeyInsights": true,
         "showTemporalProductivity": true,
-        "hideBorder": true
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 17
     },
@@ -11947,10 +11974,10 @@
         "accentColor": "#3fb950",
         "secondaryColor": "#39c5cf",
         "borderColor": "#30363d",
-        "hideBorder": true,
+        "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 18
     },
@@ -11973,9 +12000,10 @@
         "accentColor": "#3fb950",
         "secondaryColor": "#39c5cf",
         "borderColor": "#30363d",
-        "hideBorder": true
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 19
     },
@@ -11993,9 +12021,11 @@
       },
       "config": {
         "accentColor": "#c5ff4a",
-        "textColor": "#f0f0f0"
+        "textColor": "#f0f0f0",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 20
     },
@@ -12011,8 +12041,11 @@
         "width": 800,
         "height": 220
       },
-      "config": {},
-      "locked": false,
+      "config": {
+        "hideBorder": false,
+        "hideDecorations": true
+      },
+      "locked": true,
       "visible": true,
       "zIndex": 23
     },
@@ -12031,9 +12064,11 @@
       "config": {
         "layoutType": "hero",
         "accentColor": "#c5ff4a",
-        "secondaryColor": "#ff4a4a"
+        "secondaryColor": "#ff4a4a",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 25
     },
@@ -12050,9 +12085,11 @@
         "height": 144
       },
       "config": {
-        "accentColor": "#b6a891"
+        "accentColor": "#b6a891",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 23
     },
@@ -12070,9 +12107,11 @@
       },
       "config": {
         "accentColor": "#55ffff",
-        "customTitle": "Incoming Transmission"
+        "customTitle": "Incoming Transmission",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 24
     },
@@ -12091,9 +12130,11 @@
       "config": {
         "accentColor": "#c5ff4a",
         "customTitle": "Terminal Telemetry",
-        "showTitle": true
+        "showTitle": true,
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 25
     },
@@ -12112,9 +12153,11 @@
       "config": {
         "quoteType": "random",
         "layout": "horizontal",
-        "showTitle": false
+        "showTitle": false,
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 25
     },
@@ -12131,9 +12174,10 @@
         "height": 30
       },
       "config": {
-        "hideBorder": true
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 25
     },
@@ -12163,9 +12207,11 @@
           "stars"
         ],
         "renderMode": "multi",
-        "customTitle": "Contact With Me"
+        "customTitle": "Contact With Me",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 26
     },
@@ -12175,11 +12221,11 @@
       "name": "Surveillance-header Widget",
       "position": {
         "x": 0,
-        "y": 1012
+        "y": 1004
       },
       "size": {
         "width": 800,
-        "height": 408
+        "height": 416
       },
       "config": {
         "accentColor": "#c5ff4a",
@@ -12190,9 +12236,11 @@
         "roleTag": "Full Stack & AI Developer",
         "customBio": "Die is hard harder to live.. Success is not a Destination, Success is a Journey...                           \n “Build. Break. Learn. Improve. Repeat.”     \n          Full Stack & AI Developer | AI/ML • Edge AI • IoT\n     Python • Django • REST APIs • TensorFlow Lite •      Jetson • CUDA • React.js • PHP • MySQL • MongoDB",
         "quoteText": "Building intelligent systems across AI/ML, Edge AI, IoT, and full-stack development. Focused on Python, Django, REST APIs, CNN/TensorFlow Lite, NVIDIA Jetson, CUDA, React.js, PHP, MySQL, and MongoDB. AI & IoT Innovation Intern, published researcher, and hackathon team leader.",
-        "coords": "◎ KOLKATA, INDIA"
+        "coords": "◎ KOLKATA, INDIA",
+        "hideBorder": false,
+        "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 27
     },
@@ -12212,28 +12260,30 @@
         "lockAspectRatio": true,
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "hideBorder": true
+        "hideBorder": true,
+        "hideDecorations": false
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 28
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "backgroundColor": "github-auto",
     "textColor": "#e5e5e5",
     "accentColor": "#c5ff4a",
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
-    "themeMode": "dark",
-    "templateStyle": "native"
+    "themeMode": "auto",
+    "templateStyle": "native",
+    "transparentBackground": false
   },
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790059622676_5k0ts",
-    "updatedAt": "2026-09-22T06:47:05.462Z"
+    "revision": "rev_1790062373787_hp9rm",
+    "updatedAt": "2026-09-22T07:32:57.416Z"
   }
 }

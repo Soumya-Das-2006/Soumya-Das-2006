@@ -12175,11 +12175,11 @@
       "name": "Surveillance-header Widget",
       "position": {
         "x": 0,
-        "y": 1012
+        "y": 1004
       },
       "size": {
         "width": 800,
-        "height": 408
+        "height": 416
       },
       "config": {
         "accentColor": "#c5ff4a",
@@ -12233,7 +12233,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790059622676_5k0ts",
-    "updatedAt": "2026-09-22T06:47:05.462Z"
+    "revision": "rev_1790060376304_wxciu",
+    "updatedAt": "2026-09-22T06:59:39.712Z"
   }
 }

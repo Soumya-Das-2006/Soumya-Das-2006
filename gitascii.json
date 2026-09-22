@@ -12260,8 +12260,8 @@
         "lockAspectRatio": true,
         "animationType": "fade-in",
         "animationPreviewKey": 1,
-        "hideBorder": false,
-        "hideDecorations": true
+        "hideBorder": true,
+        "hideDecorations": false
       },
       "locked": true,
       "visible": true,
@@ -12283,7 +12283,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790061458233_jvoxb",
-    "updatedAt": "2026-09-22T07:17:41.202Z"
+    "revision": "rev_1790062373787_hp9rm",
+    "updatedAt": "2026-09-22T07:32:57.416Z"
   }
 }

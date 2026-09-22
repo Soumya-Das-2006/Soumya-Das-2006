@@ -5,7 +5,7 @@
       "widgetId": "header",
       "name": "Header Widget",
       "position": {
-        "x": 0,
+        "x": 329,
         "y": 0
       },
       "size": {
@@ -14,7 +14,9 @@
       },
       "config": {
         "hideBorder": true,
-        "hideDecorations": false
+        "hideDecorations": false,
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
@@ -12193,6 +12195,28 @@
       "locked": false,
       "visible": true,
       "zIndex": 27
+    },
+    {
+      "instanceId": "widget_1790059534734",
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 240,
+        "y": 1
+      },
+      "size": {
+        "width": 89,
+        "height": 89
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 28
     }
   ],
   "globalStyles": {
@@ -12209,7 +12233,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790059146655_ul38a",
-    "updatedAt": "2026-09-22T06:39:10.196Z"
+    "revision": "rev_1790059622676_5k0ts",
+    "updatedAt": "2026-09-22T06:47:05.462Z"
   }
 }

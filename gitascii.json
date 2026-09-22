@@ -18,7 +18,7 @@
         "animationType": "fade-in",
         "animationPreviewKey": 1
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 1,
       "instanceId": "widget_1789834131148_0"
@@ -11523,7 +11523,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 2,
       "instanceId": "widget_1789834131148_1"
@@ -11563,7 +11563,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1789834131148_2"
@@ -11584,7 +11584,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1789834131148_3"
@@ -11634,7 +11634,7 @@
         "showTitle": true,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1789834131148_5"
@@ -11655,7 +11655,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 6
     },
@@ -11675,7 +11675,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 8
     },
@@ -11695,7 +11695,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 9
     },
@@ -11718,7 +11718,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 10
     },
@@ -11760,7 +11760,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 11
     },
@@ -11791,7 +11791,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 12
     },
@@ -11826,7 +11826,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 13
     },
@@ -11848,7 +11848,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 14
     },
@@ -11923,7 +11923,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 16
     },
@@ -11951,7 +11951,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 17
     },
@@ -11977,7 +11977,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 18
     },
@@ -12003,7 +12003,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 19
     },
@@ -12025,7 +12025,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 20
     },
@@ -12045,7 +12045,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 23
     },
@@ -12068,7 +12068,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 25
     },
@@ -12089,7 +12089,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 23
     },
@@ -12111,7 +12111,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 24
     },
@@ -12134,7 +12134,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 25
     },
@@ -12157,7 +12157,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 25
     },
@@ -12177,7 +12177,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 25
     },
@@ -12211,7 +12211,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 26
     },
@@ -12240,7 +12240,7 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 27
     },
@@ -12263,26 +12263,27 @@
         "hideBorder": false,
         "hideDecorations": true
       },
-      "locked": false,
+      "locked": true,
       "visible": true,
       "zIndex": 28
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0d1117",
+    "backgroundColor": "github-auto",
     "textColor": "#e5e5e5",
     "accentColor": "#c5ff4a",
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
-    "themeMode": "dark",
-    "templateStyle": "native"
+    "themeMode": "auto",
+    "templateStyle": "native",
+    "transparentBackground": false
   },
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790060541900_byuid",
-    "updatedAt": "2026-09-22T07:02:25.199Z"
+    "revision": "rev_1790061458233_jvoxb",
+    "updatedAt": "2026-09-22T07:17:41.202Z"
   }
 }

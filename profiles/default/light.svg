@@ -224,12 +224,12 @@
 <text x="12" y="128" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Status: </tspan><tspan fill="#484f58">.........</tspan><tspan fill="#c9d1d9"> Edge AI Developer and IoT-ML Engineer</tspan></text>
 <text x="12" y="146" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Highlights: </tspan><tspan fill="#484f58">...</tspan><tspan fill="#c9d1d9"> ICPAT 2025 Speaker, 4x Hackathon Team …</tspan></text>
 <text x="12" y="172" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> Contact </tspan><tspan fill="#3d444d">───────────────────────────────────────────────</tspan></text>
-<text x="12" y="190" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#484f58">...</tspan><tspan fill="#c9d1d9"> https://soumya-das-2006.github.io/Soumya-…</tspan></text>
+<text x="12" y="190" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Website: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> https://soumyadas.online/</tspan></text>
 <text x="12" y="208" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. GitHub: </tspan><tspan fill="#484f58">....................</tspan><tspan fill="#c9d1d9"> github.com/Soumya-Das-2006</tspan></text>
 <text x="12" y="226" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Email: </tspan><tspan fill="#484f58">..................</tspan><tspan fill="#c9d1d9"> soumyadastopper2006@gmail.com</tspan></text>
 <text x="12" y="252" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#3d444d">─</tspan><tspan fill="#58a6ff"> GitHub Stats </tspan><tspan fill="#3d444d">──────────────────────────────────────────</tspan></text>
 <text x="12" y="270" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Repos: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 43</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Stars: </tspan><tspan fill="#484f58">...............</tspan><tspan fill="#79c0ff"> 36</tspan></text>
-<text x="12" y="288" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 229</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 17</tspan></text>
+<text x="12" y="288" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', 'JetBrains Mono', monospace" xml:space="preserve" font-size="14"><tspan fill="#ffa657">. Commits: </tspan><tspan fill="#484f58">............</tspan><tspan fill="#79c0ff"> 233</tspan><tspan fill="#3d444d"> | </tspan><tspan fill="#ffa657">. Followers: </tspan><tspan fill="#484f58">...........</tspan><tspan fill="#79c0ff"> 17</tspan></text>
           </g>
         
   
@@ -1162,7 +1162,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        310
+                        314
                     </text>
                 </g>
 
@@ -1191,7 +1191,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 <!-- Current Streak range -->
                 <g transform='translate(247.5, 145)'>
                     <text x='0' y='21' stroke-width='0' text-anchor='middle' fill='#9E9E9E' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='400' font-size='12px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.9s'>
-                        Nov 6, 2026
+                        Nov 6, 2026 - Nov 7, 2026
                     </text>
                 </g>
 
@@ -1208,7 +1208,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
                 <!-- Current Streak big number -->
                 <g transform='translate(247.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FEFEFE' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='animation: currstreak 0.6s linear forwards'>
-                        1
+                        2
                     </text>
                 </g>
 
@@ -2648,7 +2648,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#</tspan><tspan fill="#30363d">─────────────</tspan>] <tspan fill="#3fb950" font-weight="bold">  9/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#</tspan><tspan fill="#30363d">─────────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 10/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 13/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">#</tspan><tspan fill="#30363d">─────────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold">  6/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 12/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -2728,7 +2728,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 25/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 26/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 36/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 15/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 31/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -2744,7 +2744,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 28/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 29/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 40/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">##</tspan><tspan fill="#30363d">────────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 17/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 35/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -2760,7 +2760,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 31/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 32/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 45/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">###</tspan><tspan fill="#30363d">───────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 19/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 39/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -2776,7 +2776,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 34/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#####</tspan><tspan fill="#30363d">─────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 35/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">#######</tspan><tspan fill="#30363d">───────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 49/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">###</tspan><tspan fill="#30363d">───────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 21/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 43/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -2808,7 +2808,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 41/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 42/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">########</tspan><tspan fill="#30363d">──────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 58/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">###</tspan><tspan fill="#30363d">───────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 24/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">#######</tspan><tspan fill="#30363d">───────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 50/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -2824,7 +2824,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 44/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">######</tspan><tspan fill="#30363d">────────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 45/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">#########</tspan><tspan fill="#30363d">─────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 63/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 26/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">########</tspan><tspan fill="#30363d">──────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 54/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -2840,7 +2840,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="20" y="24"><tspan fill="#30363d">┌────────────────────────────────────────────────┐</tspan></text>
     <text x="20" y="41"><tspan fill="#30363d">│</tspan>                    <tspan fill="#3fb950" font-weight="bold">SCORECARD</tspan>                   <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="58"><tspan fill="#30363d">│</tspan>  <tspan fill="#30363d">──────────────────────────────────────────────</tspan><tspan fill="#30363d">│</tspan></text>
-    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#######</tspan><tspan fill="#30363d">───────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 47/100</tspan>        <tspan fill="#30363d">│</tspan></text>
+    <text x="20" y="75"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Activity      </tspan>[<tspan fill="#3fb950">#######</tspan><tspan fill="#30363d">───────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 48/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="92"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Open Source   </tspan>[<tspan fill="#39c5cf">#########</tspan><tspan fill="#30363d">─────</tspan>] <tspan fill="#39c5cf" font-weight="bold"> 67/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="109"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Community     </tspan>[<tspan fill="#ffbd2e">####</tspan><tspan fill="#30363d">──────────</tspan>] <tspan fill="#ffbd2e" font-weight="bold"> 28/100</tspan>        <tspan fill="#30363d">│</tspan></text>
     <text x="20" y="126"><tspan fill="#30363d">│</tspan>  <tspan fill="#e5e5e5">Consistency   </tspan>[<tspan fill="#3fb950">########</tspan><tspan fill="#30363d">──────</tspan>] <tspan fill="#3fb950" font-weight="bold"> 58/100</tspan>        <tspan fill="#30363d">│</tspan></text>
@@ -2930,7 +2930,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
@@ -2961,12 +2961,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">2               </tspan><tspan fill="#e5e5e5">3               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">15</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">2               </tspan><tspan fill="#e5e5e5">3               </tspan><tspan fill="#e5e5e5">1               </tspan><tspan fill="#3fb950">16</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -2992,7 +2992,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
@@ -3023,12 +3023,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">7               </tspan><tspan fill="#e5e5e5">9               </tspan><tspan fill="#e5e5e5">3               </tspan><tspan fill="#3fb950">46</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">7               </tspan><tspan fill="#e5e5e5">9               </tspan><tspan fill="#e5e5e5">3               </tspan><tspan fill="#3fb950">47</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 0</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3054,12 +3054,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">10              </tspan><tspan fill="#e5e5e5">11              </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#3fb950">61</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">10              </tspan><tspan fill="#e5e5e5">11              </tspan><tspan fill="#e5e5e5">5               </tspan><tspan fill="#3fb950">62</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3085,12 +3085,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">12              </tspan><tspan fill="#e5e5e5">14              </tspan><tspan fill="#e5e5e5">6               </tspan><tspan fill="#3fb950">76</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">12              </tspan><tspan fill="#e5e5e5">14              </tspan><tspan fill="#e5e5e5">6               </tspan><tspan fill="#3fb950">78</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3116,12 +3116,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">14              </tspan><tspan fill="#e5e5e5">17              </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#3fb950">92</tspan>               <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">14              </tspan><tspan fill="#e5e5e5">17              </tspan><tspan fill="#e5e5e5">7               </tspan><tspan fill="#3fb950">93</tspan>               <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3147,12 +3147,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">17              </tspan><tspan fill="#e5e5e5">20              </tspan><tspan fill="#e5e5e5">8               </tspan><tspan fill="#3fb950">107</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">17              </tspan><tspan fill="#e5e5e5">20              </tspan><tspan fill="#e5e5e5">8               </tspan><tspan fill="#3fb950">109</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3178,12 +3178,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">19              </tspan><tspan fill="#e5e5e5">23              </tspan><tspan fill="#e5e5e5">9               </tspan><tspan fill="#3fb950">122</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">19              </tspan><tspan fill="#e5e5e5">23              </tspan><tspan fill="#e5e5e5">9               </tspan><tspan fill="#3fb950">124</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3209,12 +3209,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">22              </tspan><tspan fill="#e5e5e5">26              </tspan><tspan fill="#e5e5e5">10              </tspan><tspan fill="#3fb950">137</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">22              </tspan><tspan fill="#e5e5e5">26              </tspan><tspan fill="#e5e5e5">10              </tspan><tspan fill="#3fb950">140</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3240,12 +3240,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">24              </tspan><tspan fill="#e5e5e5">29              </tspan><tspan fill="#e5e5e5">11              </tspan><tspan fill="#3fb950">153</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">24              </tspan><tspan fill="#e5e5e5">29              </tspan><tspan fill="#e5e5e5">11              </tspan><tspan fill="#3fb950">155</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3271,12 +3271,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">26              </tspan><tspan fill="#e5e5e5">32              </tspan><tspan fill="#e5e5e5">12              </tspan><tspan fill="#3fb950">168</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">26              </tspan><tspan fill="#e5e5e5">32              </tspan><tspan fill="#e5e5e5">12              </tspan><tspan fill="#3fb950">171</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 1</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3302,12 +3302,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">29              </tspan><tspan fill="#e5e5e5">34              </tspan><tspan fill="#e5e5e5">14              </tspan><tspan fill="#3fb950">183</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">29              </tspan><tspan fill="#e5e5e5">34              </tspan><tspan fill="#e5e5e5">14              </tspan><tspan fill="#3fb950">186</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3333,12 +3333,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">31              </tspan><tspan fill="#e5e5e5">37              </tspan><tspan fill="#e5e5e5">15              </tspan><tspan fill="#3fb950">198</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">31              </tspan><tspan fill="#e5e5e5">37              </tspan><tspan fill="#e5e5e5">15              </tspan><tspan fill="#3fb950">202</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3364,12 +3364,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">34              </tspan><tspan fill="#e5e5e5">40              </tspan><tspan fill="#e5e5e5">16              </tspan><tspan fill="#3fb950">214</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">34              </tspan><tspan fill="#e5e5e5">40              </tspan><tspan fill="#e5e5e5">16              </tspan><tspan fill="#3fb950">217</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -3395,12 +3395,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <text x="15" y="109"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf">Embedded Systems</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="126"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="143"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Location: </tspan><tspan fill="#ffbd2e">Kolkata, West Bengal</tspan>                                   <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumya-das-2006.github.io/Soumya-Das-Portfolio</tspan>         <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="160"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Website:  </tspan><tspan fill="#58a6ff">soumyadas.online</tspan>                                       <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="177"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Uptime:   </tspan><tspan fill="#3fb950">1 yr, 11 mos</tspan>                                           <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="194"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="211"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">GITHUB METRICS</tspan>                                                   <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="228"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">Stars           </tspan><tspan fill="#8b949e">Repos           </tspan><tspan fill="#8b949e">Followers       </tspan><tspan fill="#8b949e">Activity</tspan>         <tspan fill="#30363d">│</tspan></text>
-    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">36              </tspan><tspan fill="#e5e5e5">43              </tspan><tspan fill="#e5e5e5">17              </tspan><tspan fill="#3fb950">229</tspan>              <tspan fill="#30363d">│</tspan></text>
+    <text x="15" y="245"><tspan fill="#30363d">│</tspan> <tspan fill="#ffbd2e">36              </tspan><tspan fill="#e5e5e5">43              </tspan><tspan fill="#e5e5e5">17              </tspan><tspan fill="#3fb950">233</tspan>              <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="262"><tspan fill="#30363d">│</tspan>                                                                  <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="279"><tspan fill="#30363d">│</tspan> <tspan fill="#39c5cf" font-weight="bold">TOP REPOSITORIES</tspan>                                                 <tspan fill="#30363d">│</tspan></text>
     <text x="15" y="296"><tspan fill="#30363d">│</tspan> <tspan fill="#8b949e">01</tspan> <tspan fill="#58a6ff">Complaint-Management-System                  </tspan> <tspan fill="#ffbd2e">★ 2</tspan>    <tspan fill="#8b949e"> ⑂ 0</tspan>     <tspan fill="#30363d">│</tspan></text>
@@ -4664,7 +4664,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         <!-- Title -->
         <text x="60" y="115" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5">Commits</text>
         <!-- Value -->
-        <text x="60" y="132" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="bold" fill="#e5e5e5">229</text>
+        <text x="60" y="132" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="15" font-weight="bold" fill="#e5e5e5">233</text>
         <!-- Rank badge -->
         <rect x="47" y="142" width="26" height="18" rx="5" fill="#e5e5e5" opacity="0.18"/>
         <text x="60" y="156" text-anchor="middle" font-family="Segoe UI, Inter, sans-serif" font-size="12" font-weight="bold" fill="#e5e5e5">C</text>
@@ -4760,7 +4760,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
 
       
       
-      <rect class="gitascii-canvas-bg" x="0" y="0" width="272" height="376" fill="#0d1117" stroke="#252525" stroke-width="0" rx="0" />
+      <rect class="gitascii-canvas-bg" x="0" y="0" width="272" height="354" fill="#0d1117" stroke="#252525" stroke-width="0" rx="0" />
       
       
     <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB METRICS ]</text>
@@ -5196,7 +5196,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
 <rect class="c-widget_5ad675bd-2bfe-4bf5-869c-84e144b50a52" style="animation-delay:1.071s" x="491.24242424242425" y="75.3409090909091" width="6.757575757575758" height="6.757575757575758" rx="2.5" fill="#0e4429"><title>2026-11-04: 1 contribution</title></rect>
 <rect class="c-widget_5ad675bd-2bfe-4bf5-869c-84e144b50a52" style="animation-delay:1.116s" x="491.24242424242425" y="83.78787878787878" width="6.757575757575758" height="6.757575757575758" rx="2.5" fill="#006d32"><title>2026-11-05: 9 contributions</title></rect>
 <rect class="c-widget_5ad675bd-2bfe-4bf5-869c-84e144b50a52" style="animation-delay:1.161s" x="491.24242424242425" y="92.23484848484848" width="6.757575757575758" height="6.757575757575758" rx="2.5" fill="#006d32"><title>2026-11-06: 6 contributions</title></rect>
-<rect class="c-widget_5ad675bd-2bfe-4bf5-869c-84e144b50a52" style="animation-delay:1.206s" x="491.24242424242425" y="100.68181818181819" width="6.757575757575758" height="6.757575757575758" rx="2.5" fill="#161b22"><title>2026-11-07: 0 contributions</title></rect>
+<rect class="c-widget_5ad675bd-2bfe-4bf5-869c-84e144b50a52" style="animation-delay:1.206s" x="491.24242424242425" y="100.68181818181819" width="6.757575757575758" height="6.757575757575758" rx="2.5" fill="#0e4429"><title>2026-11-07: 4 contributions</title></rect>
 <text x="409.00757575757575" y="120.5" fill="#7d8590" font-size="10" text-anchor="end">Less</text>
 <rect x="415.00757575757575" y="115.12878787878788" width="6.757575757575758" height="6.757575757575758" rx="2.2" fill="#161b22"/>
 <rect x="423.45454545454544" y="115.12878787878788" width="6.757575757575758" height="6.757575757575758" rx="2.2" fill="#0e4429"/>
@@ -5206,9 +5206,9 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
 <rect x="457.2424242424242" y="115.12878787878788" width="6.757575757575758" height="6.757575757575758" rx="2.2" fill="#69f0a0"/>
 <text x="498" y="120.5" fill="#7d8590" font-size="10" text-anchor="end">More</text>
 <line x1="0" y1="135.88636363636363" x2="520" y2="135.88636363636363" stroke="#252525" stroke-opacity="0.25"/>
-<text x="22" y="159.88636363636363" font-size="13" fill="#39d353"><tspan font-weight="700">229</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
+<text x="22" y="159.88636363636363" font-size="13" fill="#39d353"><tspan font-weight="700">233</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
 <text x="498" y="159.88636363636363" font-size="12" fill="#7d8590" text-anchor="end">Nov 2, 2025 &#8594; Nov 7, 2026</text>
-<text x="22" y="183.88636363636363" font-size="13" fill="#7d8590">current streak <tspan fill="#ffa657" font-weight="700">3 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ffa657" font-weight="700">5 days</tspan></text>
+<text x="22" y="183.88636363636363" font-size="13" fill="#7d8590">current streak <tspan fill="#ffa657" font-weight="700">4 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#ffa657" font-weight="700">5 days</tspan></text>
 <text x="498" y="183.88636363636363" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">16</tspan> on Sep 22, 2026</text>
 </svg>
   

@@ -12335,7 +12335,7 @@
       },
       "size": {
         "width": 272,
-        "height": 376
+        "height": 354
       },
       "config": {
         "statsStyle": "default",
@@ -12384,7 +12384,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794023205898_jayra",
-    "updatedAt": "2026-11-07T03:46:50.080Z"
+    "revision": "rev_1794024157722_tx0sn",
+    "updatedAt": "2026-11-07T04:02:42.354Z"
   }
 }
